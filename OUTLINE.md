@@ -16,3 +16,8 @@ The current topics for the guide are as follows:
 
 - Please use the previewer to see how your content will look on a page.
 - For any style requests (example: maybe the header should be smaller) open a github issue.
+
+
+# Committing
+
+Always work off a separate branch. Submit a pull request when you want to merge to master and it will be reviewed.
