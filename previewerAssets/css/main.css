@@ -1,0 +1,10 @@
+body {
+	background-color: #CCC;
+}
+
+#display {
+	background-color: #FFF;
+	height: 4.25in;
+	width: 2.75in;
+	margin: auto;
+}
