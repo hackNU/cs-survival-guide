@@ -1,7 +1,9 @@
 CS Survival Guide Outline
 =========================
 
-The survival guide will be printed on 1 piece of paper folded into 8ths. It will have 8 pages, 1 of which is the title page of the guide.
+The survival guide will be hosted online (NOT printed),
+so as to save paper/money, as well as be a source of up-to-date information.
+Also, the ability to ctrl-f :)
 Consult [how to gamit](http://web.mit.edu/htgamit/www/) for possible topics.
 
 
